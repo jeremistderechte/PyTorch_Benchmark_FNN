@@ -31,3 +31,9 @@
     <td>170.49s</td>
   </tr>
 </table>
+
+```bash
+wget https://github.com/jeremistderechte/PyTorch_Benchmark_FNN/releases/download/bench_1.0/benchmark_fnn.tar.gz
+tar -xzf benchmark_fnn.tar.gz
+# Use correct python bin
+python benchmark.py 
