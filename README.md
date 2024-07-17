@@ -37,6 +37,12 @@ This benchmark involves training a simple ReLU network on a Mandelbrot dataset. 
 </table>
 <br>
 
+Prerequisites
+- PyTorch
+- pandas
+- scikit-learn
+  
+
 ```bash
 wget https://github.com/jeremistderechte/PyTorch_Benchmark_FNN/releases/download/bench_1.0/benchmark_fnn.tar.gz
 tar -xzf benchmark_fnn.tar.gz
