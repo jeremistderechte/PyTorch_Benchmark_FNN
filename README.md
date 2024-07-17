@@ -16,6 +16,12 @@ This benchmark involves training a simple ReLU network on a Mandelbrot dataset. 
     <td>GDDR6X</td>
     <td>49.96s</td>
   </tr>
+    <tr>
+    <td>AMD Radeon PRO VII 16GB</td>
+    <td>GCN 5.1</td>
+    <td>HBM2</td>
+    <td>53.40s</td>
+  </tr>
   <tr>
     <td>Nvidia RTX 3060 12GB</td>
     <td>Ampere</td>
