@@ -53,19 +53,19 @@ This benchmark involves training a simple ReLU network on a Mandelbrot dataset. 
     <td>2013</td>
     <td>2min 50s</td>
   </tr>
+   <tr>
+    <td>Intel Core Ultra 7 155H</td>
+    <td>Meteor Lake</td>
+    <td>DDR5</td>
+    <td>2023</td>
+    <td>19min 32s</td>
+  </tr>
   <tr>
     <td>AMD Ryzen 5 3600</td>
     <td>Zen 2</td>
     <td>DDR4</td>
     <td>2019</td>
     <td>20min 37s</td>
-  </tr>
-  <tr>
-    <td>Intel Core Ultra 7 155H</td>
-    <td>Meteor Lake</td>
-    <td>DDR5</td>
-    <td>2023</td>
-    <td>25min 50s</td>
   </tr>
 </table>
 <br>
