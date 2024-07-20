@@ -28,6 +28,12 @@ This benchmark involves training a simple ReLU network on a Mandelbrot dataset. 
     <td>GDDR6</td>
     <td>1min 2s</td>
   </tr>
+  <tr>
+    <td>Nvidia Tesla T4 16GB (Google Colab)</td>
+    <td>Turing</td>
+    <td>GDDR6</td>
+    <td>1min 41s</td>
+  </tr>
     <tr>
     <td>Nvidia Quadro RTX 3000 6GB</td>
     <td>Turing</td>
